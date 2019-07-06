@@ -1,3 +1,20 @@
+Here's what my plan will be to get this app working properly. I will be focusing the guessing game on Socks, since I mismatch my socks all the time.
+The big set up areas to tackle are the following:
+1) App.js (importing components), setting the state
+2) Components: creating folders for each of the components being rendered (having both an index.js and styles.css files in each). Specifically for the Socks Card, making sure each sock card is imported as props, then passing in each of the sock details as props.color, props.size, etc.
+3) Create a socks.json that has an array of sock objects that will be rendered when React loads the components.
+4) The first three are the main areas to address in this app, but also an index.html in the public folder, along with an index.js and index.css in the src folder.
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
